@@ -14,6 +14,8 @@ body {
     margin: 0px;
     background-color: rgb(25, 25, 35);
     background: url("/resources/background.png");
+    
+    background-size: cover;
 
     font-family: 'quicksand';
 
